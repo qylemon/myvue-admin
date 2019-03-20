@@ -1,14 +1,14 @@
-### **从零搭建自己的vue管理端框架**
+### **vue管理端框架**
 
 
  **项目所需环境：node.js  vue**
 
- **系列教程已经开始陆续更新**
+ **练手系列demo 没有优化**
 
-
-- [ **一：安装Vue脚手架所需环境** ](https://juejin.im/post/5b5fe1c8e51d4519511363cc)
-- [ **二：搭建Vue脚手架和整合ElementUI**  ](https://juejin.im/post/5b74ea4f51882561131aafea)
-- [ **三：创建登录页和跳转Home页**  ](https://juejin.im/post/5b767c27f265da27ee5361b4)
+ **完成了基础功能 后台结合maven+springboot+shiro权限控制**
+ [ **spring boot代码** ](https://github.com/qylemon/Share)
+ 
+ **缺失功能:登录vue 没有保存登录态 （接口实现了权限控制）**
 
  **项目预览**
 
@@ -18,4 +18,5 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2018/0816/124157_bd80f669_1325113.png "微信截图_20180731120300.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2018/0816/124206_86636812_1325113.png "微信截图_20180731120320.png")
 
- **写文章不易，如对您有帮助，请帮忙点下Star**
+**非常easy的写功能 vue采用模板 喜欢模板的可以给作者点star**
+[ **原模版作者gitee+教程** ](https://gitee.com/beany/myVue)
